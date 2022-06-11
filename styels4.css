@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+.main{
+    background-color: white;
+    margin: 50px;
+
+}
+table{
+    height: 70%;
+    padding-right: 30%;
+    width: 100%;
+    
+  }
